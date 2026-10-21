@@ -1,0 +1,19 @@
+{
+  "name": "Internet Archive (مجاني وقانوني)",
+  "version": "1.0.0",
+  "scrapers": [
+    {
+      "id": "internetarchive",
+      "name": "Internet Archive",
+      "description": "أفلام ومسلسلات كلاسيكية ملكية عامة من archive.org",
+      "version": "1.0.0",
+      "author": "Rawaq",
+      "supportedTypes": ["movie", "tv"],
+      "filename": "providers/internetarchive.js",
+      "enabled": true,
+      "formats": ["mp4"],
+      "logo": "https://archive.org/images/glogo.png",
+      "contentLanguage": ["en"]
+    }
+  ]
+}
