@@ -1,0 +1,6 @@
+{
+  "name": "Rawaq YouTube",
+  "description": "مسلسلات وأفلام عربية موجودة على YouTube فقط (YouTube عربي)",
+  "manifestVersion": 1,
+  "pluginLists": ["https://raw.githubusercontent.com/apcallh/rawaq-releases/main/cloudstream/plugins.json"]
+}

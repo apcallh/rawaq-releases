@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/apcallh/rawaq-releases/main/cloudstream/YouTubeArabic.cs3",
+    "status": 1,
+    "version": 1,
+    "apiVersion": 1,
+    "name": "YouTube عربي",
+    "internalName": "YouTubeArabic",
+    "authors": ["Rawaq"],
+    "description": "يبحث في قوائم تشغيل YouTube عن المسلسلات العربية (قائمة = موسم، فيديوهاتها = الحلقات) والأفلام الطويلة، ويعطي روابط YouTube يشغّلها مشغّل رواق.",
+    "repositoryUrl": "https://github.com/apcallh/rawaq-releases",
+    "tvTypes": ["TvSeries", "Movie"],
+    "language": "ar",
+    "iconUrl": "https://www.youtube.com/s/desktop/a5f6c8c8/img/favicon_144x144.png",
+    "fileSize": 40497,
+    "fileHash": "sha256-99b061aac06f52bba16eec99b6bf76b71e6a96d640920b565b3be1c44eda783c"
+  }
+]
